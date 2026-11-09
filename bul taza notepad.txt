@@ -1,1 +1,7 @@
 bul taza notepad
+
+
+
+
+
+bugin local filedagi ozgerislerdi git hubqa juklewdi uyrenip alamiz
